@@ -8,5 +8,5 @@ Parts Needed:
 - LED (Red, green, amber)
 - 330ohm Resistor (x3)
 - Jumper Leads
-- Breadboard pushbutton
+- Breadboard pushbutton (x2)
 - Active Piezo Buzzer
