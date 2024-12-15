@@ -1,9 +1,18 @@
 # start-micropython-pico
 Exercises from "Get Started with MicroPython on Raspberry Pi Pico"
 
+> [!NOTE]
+> Wifi based exercises need a 'wifi.py' file adding alongside them, eg:
+
+`wifi.py`:
+```python
+ssid = "Your 2.4GHz WiFi Name"
+psk = "Your WiFi Password"
+```
+
 Parts Needed:
 
-- Raspberry Pi Pico H
+- Raspberry Pi Pico WH (W variant needed for chapter 11 & 12 only)
 - Breadbaord
 - LED (Red, green, amber)
 - 330ohm Resistor (x3)
