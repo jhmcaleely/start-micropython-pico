@@ -27,6 +27,7 @@ Parts Needed:
   - [128x64 OLED display][pihuti2c]
 - SPI Display, ST7789 based
   - [Pico Exporer Display][pimoronispi]
+- WS2821b/NeoPixel LEDs. I used a [Pimoroni Plasma Stick 2040W][pimoroni2040w] Kit.
  
 Parts are just examples I selected that I either had on hand or could easily source.
   
@@ -34,3 +35,4 @@ Parts are just examples I selected that I either had on hand or could easily sou
 [pihutmini]: https://thepihut.com/products/breadboard-friendly-mini-pir-motion-sensor-with-3-pin-header?variant=39749999788227
 [pihuti2c]: https://thepihut.com/products/0-96-oled-display-module-128x64?variant=42810024820931
 [pimoronispi]: https://shop.pimoroni.com/products/pico-explorer-base?variant=32369514315859
+[pimoroni2040w]: https://shop.pimoroni.com/products/wireless-plasma-kit?variant=40372594704467
