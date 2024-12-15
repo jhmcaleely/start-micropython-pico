@@ -13,7 +13,8 @@ Parts Needed:
 - PIR sensors
   - [HC-SR1501 Type PIR][pihutlarge] 
   - (optional) [Mini PIR][pihutmini] 
- 
+- 10Kohm Potentiometer
+
 Parts are just examples I selected that I either had on hand or could easily source.
   
 [pihutlarge]: https://thepihut.com/products/pir-motion-sensor-module?variant=758602485
