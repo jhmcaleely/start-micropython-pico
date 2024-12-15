@@ -5,7 +5,8 @@ Parts Needed:
 
 - Raspberry Pi Pico H
 - Breadbaord
-- LED
-- 330ohm Resistor
+- LED (Red, green, amber)
+- 330ohm Resistor (x3)
 - Jumper Leads
 - Breadboard pushbutton
+- Active Piezo Buzzer
