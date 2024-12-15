@@ -12,7 +12,7 @@ psk = "Your WiFi Password"
 
 Parts Needed:
 
-- Raspberry Pi Pico WH (W variant needed for chapter 11 & 12 only)
+- Raspberry Pi Pico WH (W variant needed for chapter 11 & 12 only) (x2 for chapter 12)
 - Breadbaord
 - LED (Red, green, amber)
 - 330ohm Resistor (x3)
